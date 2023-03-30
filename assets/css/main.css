@@ -1,0 +1,14 @@
+:root {
+  --white: #fff;
+  --light-gray: #d6e2f0;
+  --grayish-blue: #7b879d;
+  --dark-blue: #1f3251
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: 0;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+}
